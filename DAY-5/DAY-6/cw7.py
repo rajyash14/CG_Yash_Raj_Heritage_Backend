@@ -1,3 +1,4 @@
+
 a = input("Enter password: ")
 b = len(a) >= 8
 c = False
