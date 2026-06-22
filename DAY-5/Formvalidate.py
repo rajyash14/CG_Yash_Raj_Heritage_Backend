@@ -17,4 +17,3 @@ def validate_form(name, email, age):
 print(validate_form('Rahul', 'rahul@email.com', '25'))
 print(validate_form('', 'test@test.com', '30'))
 print(validate_form('Priya', 'invalidemail', '22'))
-
