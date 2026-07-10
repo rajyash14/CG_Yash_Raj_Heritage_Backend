@@ -1,0 +1,13 @@
+name = input("Enter Name: ")
+age = input("Enter Age: ")
+qualification = input("Enter Qualification: ")
+city = input("Enter City: ")
+skills = input("Enter Skills: ")
+
+print("\n--- Digital Resume ---")
+print(f"Name: {name}")
+print(f"Age: {age}")
+print(f"Qualification: {qualification}")
+print(f"City: {city}")
+print(f"Skills: {skills}")
+print("--------------------")
